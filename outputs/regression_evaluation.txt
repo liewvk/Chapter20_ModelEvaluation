@@ -1,0 +1,16 @@
+
+Regression Evaluation Report
+----------------------------
+
+Prediction Results
+------------------
+   StudyHours  ActualScore  PredictedScore  AbsoluteError
+8           9           88           89.78           1.78
+1           2           45           42.72           2.28
+
+Error Measurements
+------------------
+Mean Absolute Error: 2.03
+Mean Squared Error: 4.20
+Root Mean Squared Error: 2.05
+R-squared Score: 0.99
